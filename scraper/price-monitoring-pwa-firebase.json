@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "price-monitoring-pwa",
+  "private_key_id": "4af64a7813e9e9674620c8e25ca8d771e4040556",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC+Eow0Uimmxuxe\nSnvsGU+5kZdcQhkZHiOiAlISiKns4TwqBRKpSrEU0GuosxBv/ZdN/DENtiMqizgf\niipNT3VkfCdBGBE50c+DuasFrJ41Ifk0lGOswtVSMuyTkzbax74aPvRdnkrjgvkN\ngm/+PuCG1balyZbzDCYC+P29iMq70JuLCShmu3AuLA7ZCKIK5Vnfdpqk7Ze6hd/Q\nro8yVXcPFugFgTGzgjRN+e+yDq0afWU6Pz5V8SowpawooZKRWoiZdM1hKNV4CY1f\nqm9nqv+NZj78namEudlPhjkaiACy2GknFu9Bz1S65tQgjQ834oOijrYZ0ADMWCZY\ns0HnoU85AgMBAAECggEAHMXwBYeemImqhIegBNi8EepxUF0NMZk3abISPI4Fsz9R\nfUbxUUFmVzFJ6urYhSuNeRfBUUMORcV3hIbE6pkpu0F0K8155hfV4yn7Msuz03VG\nJWiFQkToSB4/ZAO4HRx5sb1v/rAUxCYyj5H8ZC+ei6rUkHpY6IghRPfuaX/IuO+T\nYGkciVrHJRC5rI7mptmiQ7lTFsYS2k5rOjFWnWuvAFE/2zOklnT+9Y6zRG9YHT66\nzX3SD+Xxoj1ZWms9XcrPZ71bpPcJ+S9edUTJ9NsgtFyIXR0ogvlUio070zRZNEIk\nvh+/+EAFHjgaKmzVYVNlwP5qYGWtNhYP/KeQr6DN5QKBgQDw9BRN+3D3Lhf0MUGJ\nZk9FctFG0pC2wNkMnwwLdrHU1m8LB8C0Qatg9v8dHJGvixfqC47qgcwNPXSSokvI\nHZFO9ib/onmmHW3zm4qBhkDDF6XbcoDYU+zwffZgXWy7lo11i8J58myHubNrdW5h\n2fk7a1Sh2yTw/AhcYMfRWSroywKBgQDJ8ROjeH6OyGWtQ/q5buGNlw1Y+t7jZBvl\nk4UhA37GX1riyRLIr6ZuvfjDR1080OP/CMrqvKMz6SD0/hNTXd+/LzfwG3UTiBdW\n3bc8uG+xLxguPOTbtxZ2grYNazn3S9ceOlIOWk0dtoTPYUTsbWY452lDx8NABXyB\nT+WFlOabiwKBgBeXvpk4IoKBZ+UIIaOjeeWR7X3ixjquvVHoDNTehWESsgLBepPr\nzi0LYkVmc7ldhDTtdsvtc55kQxLMg2EPzBeQMJddQE4MmaR9uV0fWR4BJcNL/eOw\nrAWMP+CFpUzk2+sDiUJJg2jyvOersugv4KB5zOqgO4jBFMx+yXHtKi9rAoGBAKpn\nedDprrHBvLrWsE2lmUMngaXiHA75vOie8SoIjwPKFyFj1yvtvJ2aRL5UDANzqdDd\nlI08HOODB8J0W85vWo0zxRohsUuH/VnZwfPFFssHGHp7/ArDlnrulb0BDGr3XlEt\nmWxvGr/F8pAkXkq7jhTagWMmwEXX21YrG1z7ZxU9AoGBANXyKfSxeCF6Wu81x2dS\nqYfuiOsMcPy6YkVnvX8SXLJyajIyPs/b+wia/utSbSRL1+33aXmgsVjTr8TUSRXq\nQaTWa1yEwJOEq75gKUGY7Op7wkUJZ4mC8DMAZkVH59DvG0aMshbzQHE7aVkYmVZz\n4jXFyThplOOxNEIkXUlT5MzK\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fc6ss@price-monitoring-pwa.iam.gserviceaccount.com",
+  "client_id": "112687054570543367497",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fc6ss%40price-monitoring-pwa.iam.gserviceaccount.com"
+}

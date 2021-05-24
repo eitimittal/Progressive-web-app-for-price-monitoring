@@ -1,0 +1,19 @@
+products:
+    css: 'div[class="_1AtVbE col-12-12"]'
+    xpath: null
+    multiple: true
+    type: Text
+    children:
+        title:
+            css: 'div._4rR01T'
+            xpath: null
+            type: Text
+        url:
+            css: 'a._1fQZEK'
+            xpath: null
+            type: Link
+
+        price:
+            css: 'div._30jeq3._1_WHN1'
+            xpath: null
+            type: Text
